@@ -27,3 +27,9 @@ This is a repository for Indonesian NLP resources. The dataset belongs to the re
     * The languages included are Arabic, Chinese, Czech, Dutch, English, French, German, Hindi, Indonesian, Italian, Japanese,  Kazakh, Portugese, Russian and Spanish.
 * [TED-Multilingual-Parallel-Corpus](https://github.com/ajinkyakulkarni14/TED-Multilingual-Parallel-Corpus)
 
+## Tools
+### POS-tag
+* [POS tag for Bahasa Indonesia](https://github.com/andryluthfi/indonesian-postag)
+
+### Morphological Analyzer
+* [MorphInd](https://septinalarasati.com/morphind/)
