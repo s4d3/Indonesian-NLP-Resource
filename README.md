@@ -33,3 +33,8 @@ This is a repository for Indonesian NLP resources. The dataset belongs to the re
 
 ### Morphological Analyzer
 * [MorphInd](https://septinalarasati.com/morphind/)
+
+## Other links
+* [Indonesian NLP resources](https://github.com/kmkurn/id-nlp-resource)
+* [Bahasa Indonesia NLP](https://github.com/keyreply/Bahasa-Indo-NLP-Dataset)
+* [Polyglot](https://pypi.org/project/polyglot/)
