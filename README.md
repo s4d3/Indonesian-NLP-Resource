@@ -1,5 +1,5 @@
-# Indonesian-NLP-Resource
-This is a repository for Indonesian NLP resource. 
+# Indonesian-NLP-Resources
+This is a repository for Indonesian NLP resources. The dataset belongs to the respective owners, we just listed here to facilitate the search. 
 
 # Parallel corpora
 * [Asian Language Treebank (ALT)](http://www2.nict.go.jp/astrec-att/member/mutiyama/ALT/)
