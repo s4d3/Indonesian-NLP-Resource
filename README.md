@@ -12,7 +12,7 @@ This is a repository for Indonesian NLP resources. The dataset belongs to the re
   * OPUS is a growing collection of translated texts from the web. 
   * The dataset domain is various such as JW300, translated movie subtitles (Open subtitles), localization files (GNOME, Ubuntu, KDE4), open multilingual collection of subtitles for educational videos and lectures (QCRI Educational Domain Corpus), a collection of Quran translations (Tanzil), Wikipedia translations (wikimedia), translated sentences from Tatoeba (Tatoeba).
 * [List of Workshop on Machine Translation (WMT)](http://www.statmt.org/wmt19/translation-task.html)
- * [News Commentary v14] (http://data.statmt.org/news-commentary/v14/training/)
+  * [News Commentary v14] (http://data.statmt.org/news-commentary/v14/training/)
   * This is WMT series dataset of shared tasks. It consists of both parallel and monolingual data sets. 
   * The languages included are Arabic, Chinese, Czech, Dutch, English, French, German, Hindi, Indonesian, Italian, Japanese,  Kazakh, Portugese, Russian and Spanish.
 
