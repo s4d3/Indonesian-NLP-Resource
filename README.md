@@ -19,8 +19,8 @@ This is a repository for Indonesian NLP resources. The dataset belongs to the re
   
 ### Monolingual Corpora
 * [Leipzig Corpora Collection](https://wortschatz.uni-leipzig.de/en/download/)
- * The Leipzig Corpora Collection presents corpora in different languages using the same format and comparable sources. 
- * The dataset domain consist of news, web, wikipedia, and mixed.
+  * The Leipzig Corpora Collection presents corpora in different languages using the same format and comparable sources. 
+  * The dataset domain consist of news, web, wikipedia, and mixed.
 * [List of Workshop on Machine Translation (WMT)](http://www.statmt.org/wmt19/translation-task.html)
   * [News Commentary v14](http://data.statmt.org/news-commentary/v14/training-monolingual/)
     * This is WMT series dataset of shared tasks. It consists of both parallel and monolingual data sets. 
